@@ -1,0 +1,11 @@
+{
+  "name": "sobol",
+  "version": "1.0.0",
+  "description": "Sobol quasi random sample generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tor Nordqvist <tornord@gmail.com>",
+  "license": "ISC"
+}

@@ -1,2 +1,3 @@
 # sobol
-Sobol - Low discrepancy sequence
+
+Sobol quasi random sample generator
