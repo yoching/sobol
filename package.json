@@ -1,6 +1,6 @@
 {
 	"name": "sobol",
-	"version": "1.1.2",
+	"version": "1.1.3",
 	"description": "Sobol quasi random sample generator",
 	"keywords": [
 		"sobol",

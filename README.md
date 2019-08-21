@@ -1,3 +1,6 @@
+[![npm version](https://badge.fury.io/js/sobol.svg)](https://badge.fury.io/js/sobol)
+[![install size](https://packagephobia.now.sh/badge?p=sobol)](https://packagephobia.now.sh/result?p=sobol)
+
 # sobol
 
 Sobol quasi random sample generator. Sobol sequences are an example of quasi-random low-discrepancy sequences. See [Wikipedia](https://en.wikipedia.org/wiki/Sobol_sequence).
